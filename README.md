@@ -1,1 +1,1 @@
-# project-euler-basic-solutions
+# Project Euler - Basic Solutions
